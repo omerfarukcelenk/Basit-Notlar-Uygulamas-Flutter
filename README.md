@@ -1,17 +1,11 @@
-# notlar_uygulamasi
+# Basit Notlar Uygulaması | Flutter
 
-A new Flutter project.
+![not_uygulamasi_1](https://user-images.githubusercontent.com/71720425/125480046-6fdc1e26-e490-4c65-a1a0-d79de02a6031.png)
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+![not_uygulamasi_2](https://user-images.githubusercontent.com/71720425/125480092-0d5e833c-d896-4c2f-be35-22ffb15212f6.png)
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Basit-Notlar-Uygulamas-Flutter
+![not_uygulamasi_3](https://user-images.githubusercontent.com/71720425/125480103-6def2b4b-c70f-467d-9161-bc9463855246.png)
